@@ -233,3 +233,5 @@ stages:
               package: '$(Pipeline.Workspace)/drop/$(buildConfiguration)/*.zip'
 
 # degisti
+
+#degismedi
