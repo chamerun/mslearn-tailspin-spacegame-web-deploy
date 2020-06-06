@@ -3,7 +3,7 @@ trigger:
 
 variables:
   buildConfiguration: 'Release'
-  releaseBranchName: 'release'
+  releaseBranchName: 'az-func-app'
 
 stages:
 - stage: 'Build'
