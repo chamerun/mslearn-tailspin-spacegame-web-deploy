@@ -7,6 +7,11 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections;
 
+// run this first
+//export SITE_URL="https://tailspin-spacegame-web-test-21534.azurewebsites.net"
+// then
+// dotnet test --configuration Release Tailspin.SpaceGame.Web.UITests
+
 namespace UITests
 {
     [TestFixture("Chrome")]
