@@ -8,7 +8,7 @@ using System;
 using System.Collections;
 
 // run this first
-//export SITE_URL="https://tailspin-space-game-web-test-21534.azurewebsites.net"
+//export SITE_URL="https://tailspin-spacegame-web.azurewebsites.net"
 // then
 // dotnet test --configuration Release Tailspin.SpaceGame.Web.UITests
 
